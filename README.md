@@ -12,20 +12,20 @@ ___Yo... My bot revibe is a multipurpose bot with a HELL LOTTA fun cmds which in
 4. [Credits](#credit)
 
 # Features
-**Main help**
+**Main help.**
 ![help](https://media.discordapp.net/attachments/865734794297868288/865961091200712744/help_cmd.png)
 
-**Fun commands**
+**Fun Commands.**
 ![fun](https://media.discordapp.net/attachments/865734794297868288/865960511484461056/fun_cmds.png)
 
-**General commands**
+**General Commands.**
 ![gen](https://media.discordapp.net/attachments/865734794297868288/865963214969372712/Capture.PNG)
 
-**Moderation commands!!**
+**Moderation Commands.**
 ![mod](https://media.discordapp.net/attachments/865734794297868288/865963210703241226/Capture2.PNG)
 
 # Examples
-** Working Calculator with buttons !!**
+**Working Calculator with buttons !!**
 ![calc](https://media.discordapp.net/attachments/865734794297868288/865961534029824051/calc.png)
 
 **8ball**
